@@ -1,0 +1,4 @@
+.byte = 8
+.half = 16
+.word = 32
+.dword = 64
